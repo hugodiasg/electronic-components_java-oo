@@ -1,9 +1,11 @@
 # electronic-components_java-oo
 
-Program in java to apply the concepts of the discipline of the master's degree in electrical engineering (Special Topics in Control Systems) that addresses object-oriented programming and other subjects.
+This repo is a code in java to apply the concepts of the subject of the master's degree in electrical engineering (Special Topics in Control Systems) that addresses object-oriented programming and other contents.
+The program addresses inheritance, polymorphism, encapsulation, composition, error handling, arrays and basic programming structures. 
 
-In this repository, the program addresses inheritance, polymorphism, encapsulation, composition, error handling, arrays and basic programming structures.
+The main purpose is to implement a Device from electronic components (such as resistors, transistors, ICs, etc). Furthermore, it is possible to implement a transfer function in phasor form to simulate an output from an input.
 
-The program serves to implement a Device from electronic components (such as resistors, transistors, ICs, etc). Furthermore, it is possible to implement a transfer function in phasor form to simulate an output from an input.
+Below is the diagram showing the structure of the code.
 
-Below is the diagram showing the structure of the program.
+![image](https://github.com/hugodiasg/electronic-components_java-oo/assets/80465879/7092293b-0949-461c-88e1-c276c43c01ad)
+
