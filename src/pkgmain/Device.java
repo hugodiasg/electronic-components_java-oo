@@ -218,9 +218,9 @@ public class Device {
 					case 6:
 						String category, polarity;
 						System.out.println("Category: ");
-						category=scan.nextLine();
+						category=scan.next();
 						System.out.println("Polarity: ");
-						polarity=scan.nextLine();
+						polarity=scan.next();
 						Transistor t =  new Transistor(category,polarity);
 						control=false;
 						this.addBasic(quant, t);
@@ -228,9 +228,9 @@ public class Device {
 					case 7:
 						String series_name;
 						System.out.println("Series name: ");
-						series_name=scan.nextLine();
+						series_name=scan.next();
 						System.out.println("Category: ");
-						category=scan.nextLine();
+						category=scan.next();
 						IC ic =  new IC(series_name,category);
 						control=false;
 						this.addIC(quant, ic);

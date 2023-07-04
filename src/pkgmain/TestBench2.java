@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class TestBench2 {
 	public static void main(String[] args) {
-		try{
+		// try{
 			// int state;
 			Scanner scan = new Scanner(System.in);
 			System.out.println("Device name: ");
@@ -22,9 +22,9 @@ public class TestBench2 {
 
 			// Simulate the output with a desired input
 			device.simulate();
-		}catch (Exception e) {
-			System.out.println("Error!");
-		}
+		// }catch (Exception e) {
+		// 	System.out.println("Error!");
+		// }
 
 	}
 }
