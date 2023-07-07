@@ -11,8 +11,18 @@ Below is the diagram showing the structure of the code.
 
 # Example
 
-run build() and  Include some components:
+# Running build() and including some components:
 
 ![image](https://github.com/hugodiasg/electronic-components_java-oo/assets/80465879/28d9b868-591b-4b13-9001-8eeb330cf11d)
+
+## Running getCircuit():
+
+![image](https://github.com/hugodiasg/electronic-components_java-oo/assets/80465879/2658ec16-a2ab-47e7-a2ff-0de55d25e44d)
+
+## Running simulate() with a 5<30° input to calculate the output:
+
+![image](https://github.com/hugodiasg/electronic-components_java-oo/assets/80465879/1681e8b7-770f-49c2-ac9e-9b94b1716ead)
+
+
 
 
